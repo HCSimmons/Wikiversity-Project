@@ -1,25 +1,29 @@
-# Team Progress Report 
+# Wikiversity Progress Report 
+
+Hannah, Mackenzie, Brian, Courtney 
 
 ## Date Submitted: 
 
-Put your name and the submission date at the top. 
+October 11, 2016 
 
 ## Team Accomplishments: 
 
-Summarize in bulleted sentences what the team accomplished in the last week. Include only tangible accomplishments, not work in progress. Again, see status report format 
+Research and learned about wikiversity
+Took the "new comers" tour
+Created our final result
 
 ## Unfinished Tasks: 
 
-List things you were supposed to have finished but didn't.
+Design of final result 
 
 ## Schedule Revisions: 
 
-Describe any changes that have been made to your Project Schedule. 
+We have not changed anything within our project yet.  
 
 ## Group Problems: 
 
-Describe any difficulties your team is experiencing, whether technical, personal, or interpersonal. Describe any ideas or plans you have for addressing these problems. 
+Finding times where we are able to all meet to work on this project. 
 
 ## Late Status Reports: 
 
-List any team members who did not check in or report individual status.  
+None :) 
