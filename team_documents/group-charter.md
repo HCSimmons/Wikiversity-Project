@@ -38,7 +38,11 @@ Hannah:
 
 3. Understand Wikiversity and be able to tell someone how it works and why they should use it
 
-Brian: 1. 2. 3.
+Brian: 
+
+1. Research Wikiviserity 
+2. Put together a document with infomration all about Wikiversity
+3. Share information that is rathered with group members
 
 Courtney: 
 
