@@ -8,6 +8,7 @@
 
 2. Once you are on this page, enter in all the necesary information. I have added an example from my own account to help. 
 
+![Wikiversity Account Step 2](https://github.com/HCSimmons/Wikiversity-Project/blob/master/multimedia/Screen%20Shot%202016-10-21%20at%203.02.18%20PM.png)
 
 
 
