@@ -3,7 +3,7 @@
 
 1. First, go to [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) and in the top right hand corner of the screen you will see a tab that says "Create Account." Click it!!!
 
-
+![Wikiversity Account Step 1](https://github.com/HCSimmons/Wikiversity-Project/blob/master/multimedia/Screen%20Shot%202016-10-21%20at%203.02.00%20PM.png)
 
 
 2. Once you are on this page, enter in all the necesary information. I have added an example from my own account to help. 
